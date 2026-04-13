@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameStore.API", "GameStore.API\GameStore.API.csproj", "{1A896DE5-1A06-4321-BA2F-A7D0A31E31BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameStore.Tests", "GameStore.Tests\GameStore.Tests.csproj", "{DC80DD76-E3E1-4B17-AD8C-71A410E1A94E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A896DE5-1A06-4321-BA2F-A7D0A31E31BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A896DE5-1A06-4321-BA2F-A7D0A31E31BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A896DE5-1A06-4321-BA2F-A7D0A31E31BF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1A896DE5-1A06-4321-BA2F-A7D0A31E31BF}.Debug|x64.Build.0 = Debug|Any CPU
+		{1A896DE5-1A06-4321-BA2F-A7D0A31E31BF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1A896DE5-1A06-4321-BA2F-A7D0A31E31BF}.Debug|x86.Build.0 = Debug|Any CPU
+		{1A896DE5-1A06-4321-BA2F-A7D0A31E31BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A896DE5-1A06-4321-BA2F-A7D0A31E31BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A896DE5-1A06-4321-BA2F-A7D0A31E31BF}.Release|x64.ActiveCfg = Release|Any CPU
+		{1A896DE5-1A06-4321-BA2F-A7D0A31E31BF}.Release|x64.Build.0 = Release|Any CPU
+		{1A896DE5-1A06-4321-BA2F-A7D0A31E31BF}.Release|x86.ActiveCfg = Release|Any CPU
+		{1A896DE5-1A06-4321-BA2F-A7D0A31E31BF}.Release|x86.Build.0 = Release|Any CPU
+		{DC80DD76-E3E1-4B17-AD8C-71A410E1A94E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC80DD76-E3E1-4B17-AD8C-71A410E1A94E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC80DD76-E3E1-4B17-AD8C-71A410E1A94E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DC80DD76-E3E1-4B17-AD8C-71A410E1A94E}.Debug|x64.Build.0 = Debug|Any CPU
+		{DC80DD76-E3E1-4B17-AD8C-71A410E1A94E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DC80DD76-E3E1-4B17-AD8C-71A410E1A94E}.Debug|x86.Build.0 = Debug|Any CPU
+		{DC80DD76-E3E1-4B17-AD8C-71A410E1A94E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC80DD76-E3E1-4B17-AD8C-71A410E1A94E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC80DD76-E3E1-4B17-AD8C-71A410E1A94E}.Release|x64.ActiveCfg = Release|Any CPU
+		{DC80DD76-E3E1-4B17-AD8C-71A410E1A94E}.Release|x64.Build.0 = Release|Any CPU
+		{DC80DD76-E3E1-4B17-AD8C-71A410E1A94E}.Release|x86.ActiveCfg = Release|Any CPU
+		{DC80DD76-E3E1-4B17-AD8C-71A410E1A94E}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

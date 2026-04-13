@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "skills": {
+    "cloudinary-docs": {
+      "source": "cloudinary-devs/skills",
+      "sourceType": "github",
+      "computedHash": "fcefa1f8d62c2064c0a0efad756c27226e52ead67f6033523e894719a338316d"
+    },
+    "cloudinary-react": {
+      "source": "cloudinary-devs/skills",
+      "sourceType": "github",
+      "computedHash": "b46727e81c9159c44a2071b5d9c631ce219064d779ca5324279a43faf1734d52"
+    },
+    "cloudinary-transformations": {
+      "source": "cloudinary-devs/skills",
+      "sourceType": "github",
+      "computedHash": "749900b16bf25b34d6bc0f4d5a4b07671182183c70dedd3d9044b04fdf08bd10"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "computedHash": "9e1c8b3103f92fa8092568a44fe64858de7c5c9dc65ce4bea8f168080e889cfd"
+    },
+    "frontend-design": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "computedHash": "516bd2154eb843a8240e43d5b285229129853114ad7075a5e141e1c08e408c84"
+    },
+    "ui-ux-pro-max": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "computedHash": "6337038fe1fe6bbe1b9f252ab678ee575859190bab6f0f246f4061824eb40875"
+    },
+    "web-design-guidelines": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "computedHash": "f3bc47f890f42a44db1007ab390709ec368e4b8c089baee6b0007182236ac474"
+    }
+  }
+}
